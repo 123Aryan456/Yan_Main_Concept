@@ -93,3 +93,6 @@ License
 This project is open-source and available under the MIT License. You’re free to use, modify, and distribute it.
 
 That’s about it. Take a look around and enjoy exploring Yan’s world!
+
+
+Just a reminder any of the things written on the website are random and not true, this is a "concept design" of the website that'll be created in the further future
