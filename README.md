@@ -40,20 +40,6 @@ Open index.html in your preferred web browser.
 
 **Project Structure**
 
-yan-website-concept/
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│   ├── logo.png
-│   ├── blog-image1.jpg
-│   ├── blog-image2.jpg
-│   ├── blog-image3.jpg
-│   └── (additional images)
-├── videos/
-│   ├── yan-intro.mp4
-│   └── yan-projects.webm
-└── README.md
 
 	•	index.html: The main HTML file containing the website structure.
 	•	style.css: CSS stylesheet for styling the website.
